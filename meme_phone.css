@@ -1,0 +1,14 @@
+* {
+  font-size: 0.7rem;
+  font-weight: 400;
+}
+.meme-gen-btn {
+ font-size: 0.5rem;
+  margin: 6vh 0;
+  flex-wrap: wrap;
+  padding: 1.1vw 1.0vw;
+  border-left: 1.2vh solid black;
+  border-right: 1.2vh solid black;
+}
+
+
